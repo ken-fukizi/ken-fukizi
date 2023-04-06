@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 👋 , My name is **kenneth Y. Fukizi** .
 
-<!--
-**ken-fukizi/ken-fukizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr/>
 
-Here are some ideas to get you started:
+<a href="https://github.com/ken-fukizi">
+  <img src="https://github-readme-stats.vercel.app/api?username=ken-fukizi&count_private=true&show_icons=true&hide=stars" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/kenneth-fukizi)
+
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/channel/UCYqFsEn4VM-coOiav59TVTw)
+
+[![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/fukizi_k)
+
+## **I'm a Software Engineer and architect, passionate about Africa's authentic capacity in tech.**
+
+- 🔭 **I’m currently working on**: Mastering advanced software architecture.
+- 🌱 **I’m currently learning**: Supply chain management.
+- 👯 **I’m looking to collaborate on** : Practical technology for Africa. 
+- 🤔 **I’m looking for help with** : Connection to people that are equally passionate about Africa.
+- 💬 **Ask me about** : Software Architecture, Design Patterns, Enterprise Architecture, DDD, .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, CI/CD /w Github Actions.
+- 📫 **How to reach me**: Connect with me on LinkedIn! 👆
+- 😄 **Pronouns**:  He/Him
+- ⚡ **Fun fact**: I love 📚📚📚📚, 🏀🏀 and lots of ☕☕☕☕☕.
+
+
