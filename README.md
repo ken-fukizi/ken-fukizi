@@ -14,7 +14,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/fukizi_k)
 
-## **I'm a Software Engineer and architect, passionate about Africa's authentic capacity in tech.**
+## **I'm a Software engineer and architect, passionate about Africa's authentic capacity in tech.**
 
 - 🔭 **I’m currently working on**: Mastering advanced software architecture.
 - 🌱 **I’m currently learning**: Supply chain management.
@@ -23,6 +23,6 @@
 - 💬 **Ask me about** : Software Architecture, Design Patterns, Enterprise Architecture, DDD, .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, CI/CD /w Github Actions.
 - 📫 **How to reach me**: Connect with me on LinkedIn! 👆
 - 😄 **Pronouns**:  He/Him
-- ⚡ **Fun fact**: I love 📚📚📚📚, 🏀🏀 and lots of ☕☕☕☕☕.
+- ⚡ **Fun fact**: I love 📚📚📚📚 , 🏀🏀 and lots of ☕☕☕☕☕.
 
 
