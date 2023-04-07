@@ -1,4 +1,4 @@
-### Hellos! 👋 , My name is **Kenneth Yamikani Fukizi**, 🇿🇦 🇲🇼.
+### Hellos! 👋 , My name is **Kenneth Yamikani Fukizi**, 🇺🇸 🇿🇦 🇲🇼 , and hopefully 🇨🇦 in the future ...
 
 <hr/>
 
