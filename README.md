@@ -17,9 +17,9 @@
 ## **I'm a Software engineer and architect, passionate about Africa's authentic capacity in tech.**
 
 - 🔭 **I’m currently working on**: Mastering advanced software architecture.
-- 🌱 **I’m currently learning**: Interactive design.
+- 🌱 **I’m currently learning**: Collaborative design.
 - 👯 **I’m looking to collaborate on** : Practical technology for Africa. 
-- 🤔 **I’m looking for help with** : Connection to people that are equally passionate about Africa.
+- 🤔 **I’m looking for help with** : Connection to people equally passionate about tech in Africa.
 - 💬 **Ask me about** : Software Architecture, Design Patterns, Enterprise Architecture, DDD, .NET, CQRS, RESTful APIs, SQL and NoSQL Databases, CI/CD /w Github Actions.
 - 📫 **How to reach me**: Connect with me on LinkedIn! 👆
 - 😄 **Pronouns**:  He/Him
