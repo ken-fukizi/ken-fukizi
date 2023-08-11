@@ -14,7 +14,7 @@
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=twitter&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/fukizi_k)
 
-[![TikTok URL](https://img.shields.io/static/v1?color=blue&label=tiktok&logo=tiktok&logoColor=white&style=for-the-badge&message=Follow)](https://tiktok.com/_fukiz_)
+[![TikTok URL](https://img.shields.io/static/v1?color=purple&label=tiktok&logo=tiktok&logoColor=white&style=for-the-badge&message=Follow)](https://tiktok.com/@ken_fukizi)
 
 
 ## **I'm a Software engineer and architect, passionate about Africa's authentic capacity in tech.**
