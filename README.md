@@ -17,7 +17,7 @@
 [![TikTok URL](https://img.shields.io/static/v1?color=purple&label=tiktok&logo=tiktok&logoColor=white&style=for-the-badge&message=Follow)](https://tiktok.com/@ken_fukizi)
 
 
-## **I'm a Software engineer and architect, passionate about Africa's authentic capacity in tech.**
+## **I'm a Software engineer and architect, passionate about Africa's integration and development through tech.**
 
 - 🔭 **I’m currently working on**: Mastering advanced software architecture.
 - 🌱 **I’m currently learning**: Collaborative design.
